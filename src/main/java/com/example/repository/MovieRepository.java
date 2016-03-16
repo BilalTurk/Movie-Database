@@ -1,9 +1,9 @@
-package example.repository;
+package com.example.repository;
 
 /**
  * Created by bilalturk on 11.03.2016.
  */
-    import example.domain.movie;
+    import com.example.domain.movie;
     import org.springframework.data.domain.Page;
     import org.springframework.data.domain.Pageable;
     import org.springframework.data.repository.CrudRepository;
